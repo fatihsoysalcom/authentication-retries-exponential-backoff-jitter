@@ -1,0 +1,2 @@
+# authentication-retries-exponential-backoff-jitter
+This example demonstrates different strategies for handling transient authentication failures, a core concept discussed in the article about GitHub outages. It simulates a flaky authentication service and shows how a client behaves with no retries, naive retries, and a more robust exponential backoff with jitter retry mechanism. The goal is to illu
